@@ -1,13 +1,15 @@
 # college-management
 This is my mini project in structured query language(SQL)
 **College Management System**
+
 **About the Project**
 This College Management System is a mini-project built using MySQL. It helps manage college-related data such as students, courses, faculty, and departments. The project uses views in MySQL to simplify data retrieval and improve database efficiency.
+
 **Features**
-Student details management
-Course and faculty management
-Department-wise student and faculty information
-Use of views for efficient data handling
+Student details management,
+Course and faculty management,
+Department-wise student and faculty information,
+Use of views for efficient data handling.
 
 **Technologies Used**
 Database: MySQL
